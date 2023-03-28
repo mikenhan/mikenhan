@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mike</h1>
-<h3 align="center">DevOps Engineer from Canada. This project is to showcase my ability to write IaC to set up a static site on S3 using terraform</h3>
+<h3 align="center">DevOps Engineer from Canada.</h3>
 
 - 🔭 I’m currently working on [The Cloud Resume Challenge](https://cloudresumechallenge.dev/docs/the-challenge/aws/)
 
